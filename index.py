@@ -1,6 +1,6 @@
 cost = int(input("Cost of item: "))
 EMIHike = int(input("EMI % hike in cost of item: "))
-n = int(input("Number of terms of EMIs"))
+n = int(input("Number of terms of EMIs: "))
 inflation = int(input("Annual inflation %: "))
 interest = int(input("Annual ROI %: "))
 
